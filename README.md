@@ -82,21 +82,6 @@ This design improves maintainability, scalability, and separation of concerns.
 - QRCode
 - Pillow (PIL)
 
-## Project Structure
-project/
-│
-├── main.py
-├── auth.py
-├── robot.py
-├── login_window.py
-├── dashboard.py
-├── robot_panel.py
-├── sensors_panel.py
-├── sensor_graphs.py
-├── admin_panel.py
-├── user_settings.py
-└── users.json
-
 
 ## Security Design
 
