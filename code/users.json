@@ -1,0 +1,42 @@
+{
+    "admin": {
+        "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+        "role": "admin",
+        "locked": false,
+        "totp_secret": null,
+        "totp_enabled": false,
+        "locked_by_admin": false
+    },
+    "user": {
+        "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "role": "operator",
+        "locked": false,
+        "totp_secret": "SBRO4HCJVNUT2254FHKFYNVCCCSQTK7N",
+        "totp_enabled": false,
+        "locked_by_admin": false
+    },
+    "ss": {
+        "password": "28e51044f4a9cbae2bbd3d8a9d8c902ad1455d42208277ac4a913b003038a3dc",
+        "role": "operator",
+        "locked": true,
+        "locked_by_admin": true,
+        "totp_secret": null,
+        "totp_enabled": false
+    },
+    "Mana": {
+        "password": "c1212091aa78c0075bb40728f8a5db14549c21e8034482ce2b3683e4217ab395",
+        "role": "operator",
+        "locked": false,
+        "locked_by_admin": false,
+        "totp_secret": "H3OOIL4RSV47ROOZZDY5UH5AEVECSGWP",
+        "totp_enabled": false
+    },
+    "NewUser": {
+        "password": "6ae1ef5fe8a2507265974d7a13d3f24c0b630f0e6a42fbc6c125a1f90a16f76a",
+        "role": "admin",
+        "locked": false,
+        "locked_by_admin": false,
+        "totp_secret": null,
+        "totp_enabled": false
+    }
+}
